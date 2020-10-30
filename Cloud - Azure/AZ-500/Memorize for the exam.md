@@ -118,6 +118,7 @@
 # VMs 
 
 - **How to capture all network packets sent to a VM?** - Network Watcher and **variable packet capture**
+- **How to dynamically generate a resource ID for connecting to the right key vault?** - Linked template ([source](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli#reference-secrets-with-dynamic-id))
 
 ### Template and Policies namespaces
 - **Deploying Anti-malware?**
